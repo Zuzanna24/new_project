@@ -1,0 +1,3 @@
+C:/Users/zuzan/OneDrive/Pulpit/oprogramowanie uzytkowe/cmake-build-debug/CMakeFiles/oprogramowanie_uzytkowe.dir
+C:/Users/zuzan/OneDrive/Pulpit/oprogramowanie uzytkowe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zuzan/OneDrive/Pulpit/oprogramowanie uzytkowe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
